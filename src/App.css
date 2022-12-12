@@ -1,0 +1,29 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: 'Rubik', 'Arial', sans-serif;
+    background-color: rgb(254, 205, 1);
+
+}
+
+.poke-deck {
+    display: flex;
+    justify-content: center;
+    max-width: 1000px;
+    align-items: center;
+}
+
+.logo {
+    max-width: 1000px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.button{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    max-width: 1000px;
+
+}
